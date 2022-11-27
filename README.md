@@ -14,5 +14,5 @@
 * Animation is not required (but I did it as best I could, because without it it looks completely ugly)
 
 ### An example of the application is shown in the figures below:
-![Image alt](https://github.com/pozitr0n/CustomUIComponents-21-7/raw/main/images/img_1.png)
-![Image alt](https://github.com/pozitr0n/CustomUIComponents-21-7/raw/main/images/img_2.png)
+![Image alt](https://github.com/pozitr0n/CustomUIComponents-21-7/raw/main/images/img1.png)
+![Image alt](https://github.com/pozitr0n/CustomUIComponents-21-7/raw/main/images/img2.png)
